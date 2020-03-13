@@ -1,0 +1,3092 @@
+.headmain{
+    align-items: center; /*all element in line. I do not know. why does not it work*/
+}
+.container {
+  width: 100%;
+  max-width: 1600px; /*максимальная ширина может иметь другое значение*/
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.norway{
+    display: block;
+    position: absolute;
+width: 1600px;
+height: 800px;
+left: 0px;
+top: 0px;
+margin: auto;
+    background-image: url(img\norway.jpg);
+    background-color: #B4DDF3;
+}
+.arrow {
+    position: absolute;
+    left: 1361px;
+    right: 227px;
+    top: 32.5px;
+    bottom: 754.58px;
+
+
+    /*background: #00519C;*/
+    /*transform: matrix(0, 1, 1, 0, 0, 0);*/
+}
+.vector{
+    position: absolute;
+left: 734px;
+right: 734px;
+top: 172.15px;
+bottom: 551.15px;
+
+
+}
+.vector_circle{
+position: absolute;
+left: 819.74px;
+right: 757.02px;
+top: 200.04px;
+bottom: 579.04px;
+
+/*background: #00519C;*/
+}
+.nav{
+    position: absolute;
+width: 872px;
+height: 17px;
+left: 364px;
+top: 0px;
+
+/*font-family: Montserrat;*/
+/*font-style: normal;*/
+/*font-weight: 600;*/
+/*font-size: 14px;*/
+/*line-height: 17px;*/
+/*!* identical to box height *!*/
+/*text-align: center;*/
+/*color: #00519C;*/
+}
+.nav ul {
+                margin-left: 0px;
+                padding-left: 0px;
+                list-style: none;
+    padding-top: 0px;
+margin: 0px;
+            }
+.nav a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 18px;
+padding-top: 32px;
+margin: 0px;
+
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+color: #00519C;
+}
+.nav li{
+        display: inline;
+
+}
+
+.salmonbellies_and{
+   position: absolute;
+width: 600px;
+height: 72px;
+
+left: 500px;
+top: 571px;
+  /*margin: 0 auto;*/
+
+
+font-family: Montserrat;
+font-style: normal;
+/*font-weight: 500;*/
+font-size: 24px;
+line-height: 38px;
+/* or 158% */
+
+text-align: center;
+
+color: #00519C;
+}
+.flag_krest{
+position: absolute;
+left: 1319px;
+right: 364px;
+top: 26px;
+bottom: 742px;
+
+/*background: #D80027;*/
+}
+.flag_krest_right_top
+{
+    display: block;
+    position: absolute
+;
+    left: 1339.1px;
+;
+    right: 253.7px;
+;
+    top: 24px;
+;
+    bottom: 742px;
+;
+}
+.Vector_blue_top_right{
+    position: absolute;
+left: 1339.1px;
+right: 255.3px;
+top: 20.7px;
+bottom: 765.2px;
+}
+.Vector_blue_top_right2{
+        position: absolute;
+left: 1342px;
+right: 249.6px;
+top: 25.5px;
+bottom: 762.2px;
+}
+.flag_right_under_top_blue{
+            position: absolute;
+left: 1342.1px;
+right: 249.5px;
+top: 39.0px;
+bottom: 748.2px;
+}
+
+.Vector_gray {
+    /*position: relative;*/
+    display: block;
+    position: absolute
+;
+    left: 1319px;
+;
+    right: 253.7px;
+;
+    top: 26px;
+;
+    bottom: 742px;
+;
+}
+
+.salmonbellies{
+    position: absolute;
+width: 250px;
+height: 32px;
+left: 675px;
+    right: 675px;
+top: 263px;
+
+
+font-family: Gotham Pro;
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 27px;
+text-align: center;
+
+
+color: #00519C;
+}
+.trout_is_the_new_salmon{
+    position: absolute;
+width: 221.11px;
+height: 20px;
+left: 689px;
+top: 295px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #00519C;
+}
+
+.block_fish_Main_fish_products{
+    position: absolute;
+width: 334px;
+height: 44px;
+left: 633px;
+top: 850px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+}
+.block_fish_The_fish_is_of_premium{
+    /* The fish is of premium quality due to aquaculture and harvest in accordance to ASC certified criterias and with optimal combination of fish feed during the farming syclus */
+
+
+position: absolute;
+width: 717px;
+height: 48px;
+left: 441px;
+top: 906px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+text-align: center;
+
+color: #000000;
+}
+
+.block_fish_kirjolohi-kokonainen{
+    position: absolute;
+width: 246px;
+height: 154px;
+left: 238px;
+top: 987px;
+
+background: url(kirjolohi-kokonainen.jpg);
+}
+
+.block_fish_kirjolohifilee{
+    /* kirjolohifilee */
+
+
+position: absolute;
+width: 241px;
+height: 151px;
+left: 532px;
+top: 989px;
+
+background: url(kirjolohifilee.jpg);
+}
+
+.block_fish_lohi_kokonainen{
+    /* lohi-kokonainen */
+
+position: absolute;
+width: 248px;
+height: 155px;
+left: 821px;
+top: 985px;
+
+background: url(lohi-kokonainen.jpg);
+}
+
+.block_fish_norjalainen-lohifilee{
+    /* norjalainen-lohifilee */
+
+
+position: absolute;
+width: 243px;
+height: 151px;
+left: 1121px;
+top: 989px;
+
+background: url(norjalainen-lohifilee.jpg);
+}
+
+.block_fish_siika-kasvatettu-villi{
+    /* siika-kasvatettu-villi */
+
+
+position: absolute;
+width: 248px;
+height: 155px;
+left: 237px;
+top: 1257px;
+
+background: url(siika-kasvatettu-villi.jpg);
+}
+.block_fish_siikafilee-suomulla-suomustettu-ruodoton{
+    /* siikafilee-suomulla-suomustettu-ruodoton */
+
+
+position: absolute;
+width: 239px;
+height: 150px;
+left: 533px;
+top: 1255px;
+
+background: url(siikafilee-suomulla-suomustettu-ruodoton.jpg);
+}
+
+.block_fish_taimen{
+/* taimen */
+
+
+position: absolute;
+width: 234px;
+height: 146px;
+left: 829px;
+top: 1260px;
+
+background: url(taimen.jpg);
+}
+
+.block_fish_kalaneuvos-tuore-taimenfilee-syvatty-web{
+ /* kalaneuvos-tuore-taimenfilee-syvatty-web */
+
+
+position: absolute;
+width: 246px;
+height: 153px;
+left: 1116px;
+top: 1255px;
+
+background: url(kalaneuvos-tuore-taimenfilee-syvatty-web.jpg);
+}
+
+.bg{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 230px;
+top: 977px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+
+.bg2{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 522px;
+top: 977px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+
+.bg3{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 815px;
+top: 977px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg4{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 1108px;
+top: 977px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg5{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 230px;
+top: 1246px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg6{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 522px;
+top: 1246px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 815px;
+top: 1246px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg8{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 1108px;
+top: 1246px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+
+.block_fish_TROUT_WHOLE_ONCORHYNCHUS_MYKISS{
+    /* TROUT WHOLE ONCORHYNCHUS MYKISS */
+
+
+position: absolute;
+width: 187px;
+height: 44px;
+left: 267px;
+top: 1154px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+.block_fish_TROUT_FILLET_ONCORHYNCHUS_MYKISS{
+    /* TROUT FILLET ONCORHYNCHUS MYKISS */
+
+
+position: absolute;
+width: 187px;
+height: 44px;
+left: 560px;
+top: 1154px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+
+.block_fish_SALMON_WHOLE_SALMO_SALAR{
+    /* SALMON WHOLE SALMO SALAR */
+
+
+position: absolute;
+width: 125px;
+height: 44px;
+left: 885px;
+top: 1154px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+
+}
+.block_fish_SALMON_C-CUT_FILLET_SALMO_SALAR{
+    /* SALMON C-CUT FILLET SALMO SALAR */
+
+
+position: absolute;
+width: 165px;
+height: 44px;
+left: 1157px;
+top: 1154px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+
+.block_fish_WHITEFISH_COREGONUS_LAVARETU{
+    /* WHITEFISH COREGONUS LAVARETUS */
+
+
+position: absolute;
+width: 186px;
+height: 44px;
+left: 267px;
+top: 1423px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+.block_fish_WHITEFISH_FILLET_WITHOUT_SKIN_AND_SCALED{
+    /* WHITEFISH FILLET WITHOUT SKIN AND SCALED */
+
+
+position: absolute;
+width: 210px;
+height: 44px;
+left: 548px;
+top: 1423px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+.block_fish_FARMED_BROWN_TROUT_SALMO_TRUTTA{
+    /* FARMED BROWN TROUT SALMO TRUTTA */
+
+
+position: absolute;
+width: 181px;
+height: 44px;
+left: 857px;
+top: 1423px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+.block_fish_FARMED_BROWN_TROUT_FILLET_SALMO_TRUTTA{
+    /* FARMED BROWN TROUT FILLET SALMO TRUTTA */
+
+
+position: absolute;
+width: 237px;
+height: 44px;
+left: 1121px;
+top: 1423px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+
+.block_fish_button_View_all_products{
+    /* button */
+
+
+position: absolute;
+width: 226px;
+height: 46px;
+left: 687px;
+top: 1522px;
+
+background: #00519C;
+border-radius: 23px;
+}
+
+a.block_fish_button{
+    position: absolute;
+width: 158px;
+height: 24px;
+left: 721px;
+top: 1533px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+text-align: center;
+
+color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+.block3_Our_brochures{
+     position: absolute;
+width: 1600px;
+height: 250px; /*size на глаз*/
+left: 0px;
+top: 1600px;
+    background-color: white;
+}
+
+/*na glas*/
+.block3_Our_brochures_Vector_volna{
+    /* Vector */
+position: absolute;
+left: 570.5px;
+top: 91px;
+}
+
+/*na glas*/
+.block3_Our_brochures_Our_brochures{
+    /* Our brochures */
+
+
+position: absolute;
+width: 259px;
+height: 44px;
+
+left: 690.5px;
+    /*text-align: center;*/ /*ne daelaetsa center*/
+top: 75px; /*na glas*/
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+}
+
+/*na glas*/
+.block3_Our_brochures_Vector_volna2{
+   position: absolute;
+right: 582.5px;
+top: 91px;
+}
+
+.block3_Our_brochures_button_Chinese_version_download{
+    position: absolute;
+width: 356px;
+height: 50px;
+left: 428px;
+top: 143px; /*    1743*/
+
+background: #FFFFFF;
+border: 1px solid #1C75B7;
+box-sizing: border-box;
+border-radius: 25px;
+}
+.block3_Our_brochures_button_English_version_download{
+    /* button */
+
+
+position: absolute;
+width: 356px;
+height: 50px;
+left: 816px;
+top: 143px; /*    1743*/
+
+background: #FFFFFF;
+border: 1px solid #1C75B7;
+box-sizing: border-box;
+border-radius: 25px;
+}
+
+.block3_Our_brochures_Chinese_version_download{
+    position: absolute;
+width: 271px;
+height: 30px;
+left: 495px;
+top: 155px;
+/*    1755*/
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+
+text-align: center;
+
+color: #1C75B7;
+}
+.block3_Our_brochures_English_version_download{
+    /* English version download */
+
+
+position: absolute;
+width: 278px;
+height: 30px;
+left: 878px;
+top: 155px; /*    1755*/
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+
+text-align: center;
+
+color: #1C75B7;
+
+}
+.block4_Salmofan_and_quality{
+    /* bg */
+
+
+position: absolute;
+width: 1600px;
+height: 436px;
+left: 0px;
+top: 1862px;
+
+background: #EDF8FF;
+}
+.block4_text_Salmofan_and_quality{
+    /* Salmofan and quality */
+
+
+position: absolute;
+width: 379px;
+height: 44px;
+left: 613px;
+top: 1911px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+
+}
+.block4_text_Color_test{
+    /* Color test, salmonbellies ensures clients demand are met and that producer delivers accordingly. */
+
+
+position: absolute;
+width: 723px;
+height: 25px;
+left: 441px;
+top: 1973px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+text-align: center;
+
+color: #000000;
+}
+
+.block4_msc{
+    /* msc */
+
+
+position: absolute;
+width: 235px;
+height: 84px;
+left: 233px;
+top: 2066px;
+
+background: url(msc.png);
+}
+.block4_asc{
+    /* asc */
+
+
+position: absolute;
+width: 181px;
+height: 83px;
+left: 526px;
+top: 2066px;
+
+background: url(asc.png);
+}
+.block4_Kalaneuvos_Oy{
+    /* Kalaneuvos Oy’s product selection includes fresh, smoked, cold smoked, frozen, slightly salted and marinated products. We provide fish products in several variants – caviar, whole fish, fillets, slices, portions, cubes, boneless and skinless fish. We have the ISO 9001 Quality Management System and the FSSC 22000 Food Safety System Certification, which provide a framework for effectively managing our organisation’s quality and food safety responsibilities. We also have the ISO 14001 Environmental Management System. */
+
+
+position: absolute;
+width: 528px;
+height: 220px;
+left: 845px;
+top: 2049px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #000000;
+
+}
+.block4_WE_ARE_MSC_CERTIFIED{
+    position: absolute;
+width: 262px;
+height: 65px;
+left: 233px;
+top: 2166px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 24px;
+/* or 200% */
+
+
+color: #00519C;
+}
+.block4_WE_ARE_ASC_CERTIFIED{
+    /* WE ARE ASC CERTIFIED (ASC-C-01179). LOOK FOR THE AQUA GREEN ASC LOGO */
+
+
+position: absolute;
+width: 252px;
+height: 70px;
+left: 526px;
+top: 2166px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 24px;
+/* or 200% */
+
+
+color: #00519C;
+}
+.block5_white{
+    /* bg */
+
+
+position: absolute;
+width: 1600px;
+height: 40px;
+left: 0px;
+top: 2298px;
+
+background: white;
+}
+.block6_Fish_by_Kalaneuvos{
+    /* bg */
+
+
+position: absolute;
+width: 1600px;
+height: 780px;
+left: 0px;
+top: 2338px;
+
+background: #EDF8FF;
+}
+.block6_Fish_by_Kalaneuvos_karta{
+    /* Vector */
+
+
+position: absolute;
+width: 1600px;
+height: 780px;
+left: 0px;
+top: 2338px;
+
+background: #EDF8FF;
+}
+
+.block6_Fish_by_Kalaneuvos__Trout_white{
+    /* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 161px;
+top: 2504px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by_Kalaneuvos_are{
+    /* Fish by Kalaneuvos are caught or farmed primarily in the following locations */
+
+
+position: absolute;
+width: 736px;
+height: 88px;
+left: 431px;
+top: 2387px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #00519C;
+}
+
+.block6_Fish_by_Kalaneuvos__Trout{
+    /* Trout */
+
+
+position: absolute;
+width: 49px;
+height: 24px;
+left: 179px;
+top: 2519px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+}
+.block6_Fish_by_Kalaneuvos__Farmed_on_the{
+    /* Farmed on the Finnish coast, in Åland and in Sweden */
+
+
+position: absolute;
+width: 215px;
+height: 49px;
+left: 179px;
+top: 2547px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+
+}
+
+.block6_Fish_by__Salmon_white{
+    /* bg */
+
+
+position: absolute;
+width: 263px;
+height: 120px;
+left: 453px;
+top: 2504px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+
+.block6_Fish_by_Kalaneuvos__Salmon{
+    /* Salmon */
+
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 471px;
+top: 2519px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+.block6_Fish_by_Kalaneuvos__Farmed_on_the_Lofoten{
+
+position: absolute;
+width: 242px;
+height: 77px;
+left: 471px;
+top: 2547px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+
+}
+
+.block6_Fish_by__Whitefish_white{
+
+
+
+/* bg */
+
+
+position: absolute;
+width: 263px;
+height: 120px;
+left: 746px;
+top: 2504px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Whitefish{
+    /* Whitefish (farmed) */
+
+
+position: absolute;
+width: 174px;
+height: 24px;
+left: 765px;
+top: 2519px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+.block6_Fish_by__The_Archipelago_Sea{
+    /* The Archipelago Sea */
+
+
+position: absolute;
+width: 134px;
+height: 20px;
+left: 765px;
+top: 2547px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+
+color: #000000;
+
+}
+.block6_Fish_by__Whitefish_wild_white{
+/* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 1039px;
+top: 2504px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+
+}
+.block6_Fish_by__Whitefish_wild{
+/* Whitefish (wild) */
+
+
+position: absolute;
+width: 146px;
+height: 24px;
+left: 1058px;
+top: 2519px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+}
+.block6_Fish_by__Lake_Lappaj{
+    /* Lake Lappajärvi, Lake Kyrösjärvi, the Archipelago Sea, Åland */
+
+
+position: absolute;
+width: 224px;
+height: 69px;
+left: 1058px;
+top: 2547px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+}
+.block6_Fish_by__Whitefish_Canada_white{
+    /* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 161px;
+top: 2654px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Whitefish_Canada{
+    /* Whitefish (Canada) */
+
+
+position: absolute;
+width: 177px;
+height: 24px;
+left: 179px;
+top: 2669px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+.block6_Fish_by__The_Canadian_Great_Lakes{
+    /* The Canadian Great Lakes */
+
+
+position: absolute;
+width: 215px;
+height: 49px;
+left: 179px;
+top: 2697px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+}
+.block6_Fish_by__Baltic_herring_white{
+/* bg */
+
+
+position: absolute;
+width: 263px;
+height: 120px;
+left: 453px;
+top: 2654px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+
+}
+.block6_Fish_by__Baltic_herring{
+    /* Baltic herring */
+
+
+position: absolute;
+width: 125px;
+height: 24px;
+left: 471px;
+top: 2669px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+.block6_Fish_by__The_Bothnian_Sea{
+    /* The Bothnian Sea and the Archipelago Sea */
+
+
+position: absolute;
+width: 242px;
+height: 77px;
+left: 471px;
+top: 2697px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+}
+.block6_Fish_by__Vendace_white{
+    /* bg */
+
+
+position: absolute;
+width: 263px;
+height: 120px;
+left: 746px;
+top: 2654px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Vendace{
+    /* Vendace */
+
+
+position: absolute;
+width: 80px;
+height: 24px;
+left: 765px;
+top: 2669px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+.block6_Fish_by__Lake_Puruvesi_Lake{
+    /* Lake Puruvesi Lake Saimaa Lake Pyhäjärvi in Säkylä */
+
+
+position: absolute;
+width: 229px;
+height: 59px;
+left: 765px;
+top: 2697px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+
+}
+.block6_Fish_by__Northern_pike_white{
+    /* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 1039px;
+top: 2654px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Northern_pike{
+    /* Northern pike */
+
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 1058px;
+top: 2669px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+
+.block6_Fish_by__Lake_Lappajärvi{
+    /* Lake Lappajärvi Lake Kyrösjärvi Lake Pyhäjärvi in Säkylä */
+
+
+position: absolute;
+width: 224px;
+height: 69px;
+left: 1058px;
+top: 2697px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+}
+.block6_Fish_by__Northern_pike{
+    /* Northern pike */
+
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 1058px;
+top: 2669px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+}
+
+.block6_Fish_by__Lake_Lappajärvi_Lake{
+    /* Lake Lappajärvi Lake Kyrösjärvi Lake Pyhäjärvi in Säkylä */
+
+
+position: absolute;
+width: 224px;
+height: 69px;
+left: 1058px;
+top: 2697px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+}
+.block6_Fish_by__Pike_perch_white{
+    /* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 161px;
+top: 2804px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Pike_perch{
+    /* Pike perch (freshwater) */
+
+
+position: absolute;
+width: 214px;
+height: 24px;
+left: 179px;
+top: 2819px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+}
+.block6_Fish_by__Lake_Lappajärvi_Lake_Pyhäjärvi{
+    /* Lake Lappajärvi Lake Pyhäjärvi in Pirkanmaa Lake Kyrösjärvi Lake Vesijärvi in Lahti */
+
+
+position: absolute;
+width: 215px;
+height: 49px;
+left: 179px;
+top: 2847px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+}
+.block6_Fish_by__Pike_perch_sea_white{
+    /* bg */
+
+
+position: absolute;
+width: 263px;
+height: 120px;
+left: 453px;
+top: 2804px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Pike_perch_sea{
+    /* Pike perch (sea) */
+
+
+position: absolute;
+width: 145px;
+height: 24px;
+left: 471px;
+top: 2819px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+}
+.block6_Fish_by__The_Vaasa_sea_area{
+    /* The Vaasa sea area, the Turku Archipelago */
+
+
+position: absolute;
+width: 228px;
+height: 64px;
+left: 471px;
+top: 2847px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+
+}
+.block6_Fish_by__Perch_freshwater_white{
+    /* bg */
+
+
+position: absolute;
+width: 263px;
+height: 120px;
+left: 746px;
+top: 2804px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Perch_freshwater{
+    /* Perch (freshwater) */
+
+
+position: absolute;
+width: 170px;
+height: 24px;
+left: 765px;
+top: 2819px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+
+}
+.block6_Fish_by__Lake_Lappajärvi_Lake_Pyhäjärvi_in{
+    /* Lake Lappajärvi Lake Pyhäjärvi in Pirkanmaa Lake Kyrösjärvi */
+
+
+position: absolute;
+width: 229px;
+height: 40px;
+left: 765px;
+top: 2847px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+
+}
+.block6_Fish_by__Perch_sea_white{
+    /* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 1039px;
+top: 2804px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+
+}
+.block6_Fish_by__Perch_sea{
+    /* Perch (sea) */
+
+
+position: absolute;
+width: 101px;
+height: 24px;
+left: 1058px;
+top: 2819px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+
+}
+.block6_Fish_by__Kvarken{
+/* Kvarken */
+
+
+position: absolute;
+width: 224px;
+height: 69px;
+left: 1058px;
+top: 2847px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+}
+.block6_Fish_by__Brown_trout_farmed_white{
+    /* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 161px;
+top: 2954px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Brown_trout_farmed{
+    /* Brown trout (farmed) */
+
+
+position: absolute;
+width: 195px;
+height: 24px;
+left: 179px;
+top: 2969px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+.block6_Fish_by__Åland{
+    /* Åland */
+
+
+position: absolute;
+width: 215px;
+height: 49px;
+left: 179px;
+top: 2997px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+
+}
+.block6_Fish_by__Arctic_char_farmed_white{
+    /* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 161px;
+top: 2954px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+
+}
+.block6_Fish_by__Arctic_char_farmed_white {
+    /* bg */
+
+
+    position: absolute;
+    width: 263px;
+    height: 120px;
+    left: 453px;
+    top: 2954px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+    border-radius: 10px;
+}
+.block6_Fish_by__Arctic_char_farmed{
+    /* Arctic char (farmed) */
+
+
+position: absolute;
+width: 183px;
+height: 24px;
+left: 471px;
+top: 2969px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+
+.block6_Fish_by__Sweden{
+    /* Sweden */
+
+
+position: absolute;
+width: 242px;
+height: 77px;
+left: 471px;
+top: 2997px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+
+}
+.block6_Fish_by__Mackerel_white{
+    /* bg */
+
+
+position: absolute;
+width: 263px;
+height: 120px;
+left: 746px;
+top: 2954px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Mackerel{
+    /* Mackerel */
+
+
+position: absolute;
+width: 84px;
+height: 24px;
+left: 765px;
+top: 2969px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+
+}
+.block6_Fish_by__Ireland_and_Scotland{
+    /* Ireland and Scotland, grown in the north-east Atlantic */
+
+
+position: absolute;
+width: 229px;
+height: 59px;
+left: 765px;
+top: 2997px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+
+}
+.block6_Fish_Cod_white{
+    /* bg */
+
+
+position: absolute;
+width: 262px;
+height: 120px;
+left: 1039px;
+top: 2954px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.block6_Fish_by__Cod{
+    /* Cod */
+
+
+position: absolute;
+width: 37px;
+height: 24px;
+left: 1058px;
+top: 2969px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #00519C;
+}
+.block6_Fish_by__Sweden_and_Denmark{
+    /* Sweden and Denmark area, the North-East Atlantic */
+
+
+position: absolute;
+width: 224px;
+height: 69px;
+left: 1058px;
+top: 2997px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+
+color: #000000;
+}
+.block5_6_white{
+
+position: absolute;
+width: 1600px;
+height: 40px;
+left: 0px;
+top: 3120px;
+
+background: white;
+}
+
+/*start block 7*/
+.block_fish7{
+/* ice_bg */
+
+
+position: absolute;
+width: 1600px;
+height: 800px;
+left: 1px;
+top: 3160px;
+
+background: url(shutterstock_126364385-v2.jpg), #EDF8FF;
+}
+.block_fish7_Ready_to_eat_products{
+   /* Ready to eat products */
+
+/*position: inherit;*/
+position: absolute;
+width: 392px;
+height: 44px;
+    /*text-align: center;*/
+left: 605px;
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*margin: auto;*/
+top: 50px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+}
+.block_fish7_The_fish_is_of_premium{
+    /* The fish is of premium quality due to aquaculture and harvest in accordance to ASC certified criterias and with optimal combination of fish feed during the farming syclus */
+
+
+position: absolute;
+width: 717px;
+height: 48px;
+left: 441px;
+top: 106px;
+    padding: 0px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+text-align: center;
+
+color: #000000;
+}
+
+.block_fish7_kirjolohi-kokonainen{
+    position: absolute;
+width: 246px;
+height: 154px;
+left: 238px;
+top: 187px;
+
+background: url(kirjolohi-kokonainen.jpg);
+}
+
+.block_fish7_kirjolohifilee{
+    /* kirjolohifilee */
+
+
+position: absolute;
+width: 241px;
+height: 151px;
+left: 532px;
+top: 189px;
+
+background: url(kirjolohifilee.jpg);
+}
+
+.block_fish7_lohi_kokonainen{
+    /* lohi-kokonainen */
+
+position: absolute;
+width: 248px;
+height: 155px;
+left: 821px;
+top: 185px;
+
+background: url(lohi-kokonainen.jpg);
+}
+
+.block_fish7_norjalainen-lohifilee{
+    /* norjalainen-lohifilee */
+
+
+position: absolute;
+width: 243px;
+height: 151px;
+left: 1121px;
+top: 189px;
+
+background: url(norjalainen-lohifilee.jpg);
+}
+
+.block_fish7_siika-kasvatettu-villi{
+    /* siika-kasvatettu-villi */
+
+
+position: absolute;
+width: 248px;
+height: 155px;
+left: 237px;
+top: 457px;
+
+background: url(siika-kasvatettu-villi.jpg);
+}
+.block_fish7_siikafilee-suomulla-suomustettu-ruodoton{
+    /* siikafilee-suomulla-suomustettu-ruodoton */
+
+
+position: absolute;
+width: 239px;
+height: 150px;
+left: 533px;
+top: 455px;
+
+background: url(siikafilee-suomulla-suomustettu-ruodoton.jpg);
+}
+
+.block_fish7_taimen{
+/* taimen */
+
+
+position: absolute;
+width: 234px;
+height: 146px;
+left: 829px;
+top: 460px;
+
+background: url(taimen.jpg);
+}
+
+.block_fish7_kalaneuvos-tuore-taimenfilee-syvatty-web{
+ /* kalaneuvos-tuore-taimenfilee-syvatty-web */
+
+
+position: absolute;
+width: 246px;
+height: 153px;
+left: 1116px;
+top: 455px;
+
+background: url(kalaneuvos-tuore-taimenfilee-syvatty-web.jpg);
+}
+
+.bg1_7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 230px;
+top: 177px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg2_7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 522px;
+top: 177px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+
+.bg3_7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 815px;
+top: 177px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg4_7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 1108px;
+top: 177px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg5_7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 230px;
+top: 446px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg6_7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 522px;
+top: 446px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg7_7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 815px;
+top: 446px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+.bg8_7{
+    position: absolute;
+width: 262px;
+height: 240px;
+left: 1108px;
+top: 446px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 5px rgba(0, 35, 126, 0.06);
+border-radius: 10px;
+}
+
+.block_fish7_TROUT_WHOLE_ONCORHYNCHUS_MYKISS{
+    /* TROUT WHOLE ONCORHYNCHUS MYKISS */
+
+
+position: absolute;
+width: 187px;
+height: 44px;
+left: 267px;
+top: 354px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+.block_fish7_TROUT_FILLET_ONCORHYNCHUS_MYKISS{
+    /* TROUT FILLET ONCORHYNCHUS MYKISS */
+
+
+position: absolute;
+width: 187px;
+height: 44px;
+left: 560px;
+top: 354px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+
+.block_fish7_SALMON_WHOLE_SALMO_SALAR{
+    /* SALMON WHOLE SALMO SALAR */
+
+
+position: absolute;
+width: 125px;
+height: 44px;
+left: 885px;
+top: 354px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+
+}
+.block_fish7_SALMON_C-CUT_FILLET_SALMO_SALAR{
+    /* SALMON C-CUT FILLET SALMO SALAR */
+
+
+position: absolute;
+width: 165px;
+height: 44px;
+left: 1157px;
+top: 354px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+
+.block_fish7_WHITEFISH_COREGONUS_LAVARETU{
+    /* WHITEFISH COREGONUS LAVARETUS */
+
+
+position: absolute;
+width: 186px;
+height: 44px;
+left: 267px;
+top: 623px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+.block_fish7_WHITEFISH_FILLET_WITHOUT_SKIN_AND_SCALED{
+    /* WHITEFISH FILLET WITHOUT SKIN AND SCALED */
+
+
+position: absolute;
+width: 210px;
+height: 44px;
+left: 548px;
+top: 623px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+.block_fish7_FARMED_BROWN_TROUT_SALMO_TRUTTA{
+    /* FARMED BROWN TROUT SALMO TRUTTA */
+
+
+position: absolute;
+width: 181px;
+height: 44px;
+left: 857px;
+top: 623px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+.block_fish7_FARMED_BROWN_TROUT_FILLET_SALMO_TRUTTA{
+    /* FARMED BROWN TROUT FILLET SALMO TRUTTA */
+
+
+position: absolute;
+width: 237px;
+height: 44px;
+left: 1121px;
+top: 623px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: #00519C;
+}
+
+.block_fish7_button_View_all_products{
+    /* button */
+
+
+position: absolute;
+width: 226px;
+height: 46px;
+left: 687px;
+top: 722px;
+
+background: #00519C;
+border-radius: 23px;
+}
+
+a.block_fish7_button{
+    position: absolute;
+width: 158px;
+height: 24px;
+left: 721px;
+top: 733px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+text-align: center;
+
+color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.block3_8_Our_brochures{
+     position: absolute;
+width: 1600px;
+height: 281px; /*size на глаз*/
+left: 0px;
+top: 3960px;
+    background-color: white;
+}
+
+/*na glas*/
+.block3_8_Our_brochures_Vector_volna{
+    /* Vector */
+position: absolute;
+left: 570.5px;
+top: 91px;
+}
+
+/*na glas*/
+.block3_8_Our_brochures_Our_brochures{
+    /* Our brochures */
+
+
+position: absolute;
+width: 259px;
+height: 44px;
+
+left: 690.5px;
+    /*text-align: center;*/ /*ne daelaetsa center*/
+top: 75px; /*na glas*/
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+}
+
+/*na glas*/
+.block3_8_Our_brochures_Vector_volna2{
+   position: absolute;
+right: 582.5px;
+top: 91px;
+}
+
+.block3_8_Our_brochures_button_Chinese_version_download{
+    position: absolute;
+width: 356px;
+height: 50px;
+left: 428px;
+top: 143px; /*    1743*/
+
+background: #FFFFFF;
+border: 1px solid #1C75B7;
+box-sizing: border-box;
+border-radius: 25px;
+}
+.block3_8_Our_brochures_button_English_version_download{
+    /* button */
+
+
+position: absolute;
+width: 356px;
+height: 50px;
+left: 816px;
+top: 143px; /*    1743*/
+
+background: #FFFFFF;
+border: 1px solid #1C75B7;
+box-sizing: border-box;
+border-radius: 25px;
+}
+
+.block3_8_Our_brochures_Chinese_version_download{
+    position: absolute;
+width: 271px;
+height: 30px;
+left: 495px;
+top: 155px;
+/*    1755*/
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+
+text-align: center;
+
+color: #1C75B7;
+}
+.block3_8_Our_brochures_English_version_download{
+    /* English version download */
+
+
+position: absolute;
+width: 278px;
+height: 30px;
+left: 878px;
+top: 155px; /*    1755*/
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+
+text-align: center;
+
+color: #1C75B7;
+
+}
+
+
+
+
+
+
+
+
+
+.block9_Receipes_fon{
+    /* ice_bg */
+
+
+position: absolute;
+width: 1600px;
+height: 630px;
+left: 0px;
+top: 4241px;
+
+background: #EDF8FF;
+}
+.block9_Receipes{
+ /* Receipes */
+
+
+position: absolute;
+width: 161px;
+height: 44px;
+left: 720px;
+top: 4291px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+}
+
+.block9_Receipes_picter1{
+    /* receipe */
+
+
+position: absolute;
+width: 555px;
+height: 162px;
+left: 230px;
+top: 4368px;
+
+background: url(Lisa-Allen-Wester-Ross-seared-salmon-loin-fennel-pollen-and-sweet-onion-1600x1000.jpg);
+}
+
+.block9_Wester_Ross{
+    /* Wester Ross seared salmon loin, fennel pollen and sweet onion */
+
+
+position: absolute;
+width: 496px;
+height: 46px;
+left: 259px;
+top: 4548px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: center;
+
+color: #00519C;
+
+}
+.block9_This_delicious{
+    /* This delicious starter by Michelin-starred chef Lisa Allen has many elements that come together to create a striking dish, bursting with vibrant colours. To give the salmon a smoky, charred flavour the chef finishes the dish by... */
+
+
+position: absolute;
+width: 500px;
+height: 74px;
+left: 257px;
+top: 4607px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 24px;
+/* or 185% */
+
+text-align: center;
+
+color: #000000;
+
+}
+
+
+
+.block9_Receipes_picter2{
+   /* receipe */
+
+
+position: absolute;
+width: 555px;
+height: 162px;
+left: 815px;
+top: 4369px;
+
+background: url(chargrilled-fish-with-green-chilli-coriander-and-coconut-relish-70446-1.jpg);
+}
+
+.block9_Wester_Ross{
+  /* Wester Ross seared salmon loin, fennel pollen and sweet onion */
+
+
+position: absolute;
+width: 495px;
+height: 46px;
+left: 845px;
+top: 4549px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: center;
+
+color: #00519C;
+
+
+}
+.block9_2_This_delicious{
+    /* This delicious starter by Michelin-starred chef Lisa Allen has many elements that come together to create a striking dish, bursting with vibrant colours. To give the salmon a smoky, charred flavour the chef finishes the dish by... */
+
+
+position: absolute;
+width: 499px;
+height: 74px;
+left: 843px;
+top: 4608px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 24px;
+/* or 185% */
+
+text-align: center;
+
+color: #000000;
+}
+.block9_fish_button_View_all_products{
+    /* button */
+
+
+position: absolute;
+width: 226px;
+height: 46px;
+left: 687px;
+top: 4753px;
+
+background: #00519C;
+border-radius: 23px;
+}
+
+.block9_fish_button{
+    /* View all receipes */
+
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 724px;
+top: 4764px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+    text-decoration: none;
+/* identical to box height, or 133% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.block10_fon{
+    /* 1196812783_and_11709029832 */
+
+
+position: absolute;
+width: 1600px;
+height: 300px;
+left: 0px;
+top: 4871px;
+
+}
+
+.block10_Why_trout{
+    /* Why trout is the new salmon */
+
+
+position: absolute;
+width: 513px;
+height: 44px;
+left: 544px;
+top: 4940px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+}
+.block10_Wester_Ross{
+    /* Trout tend to more firm in the muscle tissue then salmon when cooking, it grows faster in aquaculture then salmon and we have ready trout for delivery all year around to the markets */
+
+
+position: absolute;
+width: 585px;
+height: 70px;
+left: 508px;
+top: 5005px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+
+text-align: center;
+
+color: #000000;
+}
+/*4871-1108*/
+
+
+
+
+
+
+.block11_fon{
+ position: absolute;
+width: 1600px;
+height: 1108px;
+left: 0px;
+top: 5171px;
+    background-color: white;
+}
+
+.block11_Markets{
+    /* Markets */
+
+
+position: absolute;
+width: 143px;
+height: 44px;
+left: 728px;
+top: 5246px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+}
+.block11_picter{
+    /* market */
+
+
+position: absolute;
+width: 518px;
+height: 371px;
+left: 230px;
+top: 5325px;
+
+background: url(tuotanto_ecofishbox_kuvapankki.jpg), #B7B7B7;
+border-radius: 10px;
+}
+
+.block11_text{
+    /* Salmonbellies focuses on Switzerland, and Israel by all-in kosher products on demand with rabbinical supervision. But just to let you know that our products are approved for import to China, so alot of focus is streamlined towards the Asian markets herein; Japan, China, Taiwan, South Korea, Thailand, The Philippines, Vietnam and India. Our main focus for smolt sales is towards Norwegian trout fish farmers, and Canada for rainbow trout roe. The team Salmonbellies is always open to help and assist with our competence and skills within aquaculture in other countries and markets. Mr. Alexander Refsnes have close ties to researchers in Norway on fish health and fish pathology related to aquaculture of trout and salmon from the time he studied for his degree in Aquaculture, and where he discovered his new passion for the aquaculture industry on salmon species, and feed regimes. */
+
+
+position: absolute;
+width: 585px;
+height: 375px;
+left: 785px;
+top: 5319px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #000000;
+}
+.block11_News{
+    /* News */
+
+
+position: absolute;
+width: 99px;
+height: 44px;
+left: 750px;
+top: 5806px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #00519C;
+}
+
+.block11_fon_blue1{
+    /* bg */
+
+
+position: absolute;
+width: 555px;
+height: 196px;
+left: 229px;
+top: 5873px;
+
+background: #EDF8FF;
+border-radius: 10px;
+}
+
+.block11_Expo_global_2019{
+    /* Expo global 2019 */
+
+
+position: absolute;
+width: 249px;
+height: 18px;
+left: 245px;
+top: 5903px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 24px;
+/* or 109% */
+
+
+color: #00519C;
+
+}
+.block11_Expo_The_team{
+    /* The team of Salmonbellies enjoyed the seafood Expo global 2019, and thank you to all participants who filled in our questionnaire during our many meetings in the crowdy melting pot in Bruxelle this year. */
+
+
+position: absolute;
+width: 501px;
+height: 75px;
+left: 252px;
+top: 5944px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #000000;
+}
+.block11_fon_blue2{
+ /* bg */
+
+
+position: absolute;
+width: 555px;
+height: 196px;
+left: 814px;
+top: 5873px;
+
+background: #EDF8FF;
+border-radius: 10px;
+}
+.block11_A_new{
+    /* A new company in Minsk */
+
+
+position: absolute;
+width: 286px;
+height: 25px;
+left: 836px;
+top: 5903px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 24px;
+/* or 109% */
+
+
+color: #00519C;
+}
+
+.block11_4th{
+    /* 4th. July 2019, team of Salmonbellies launches a new company in Minsk, Belarus namely "Lyxfish CJSC" this company will act as Scandinavia`s fish farmers gateway to Belarus export markets, with the main focus on trout and salmon products. */
+
+
+position: absolute;
+width: 523px;
+height: 96px;
+left: 836px;
+top: 5944px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #000000;
+}
+
+.block12_fon{
+    position: absolute;
+width: 1600px;
+height: 130px;
+left: 0px;
+top: 6279px;
+    background: #EDF8FF;
+}
+
+.block12_fish{
+        position: absolute;
+width: 67px;
+height: 39.32px;
+left: 230px;
+top: 46.84px;
+}
+
+.block12_fish_cicle{
+            position: absolute;
+/*width: 11.78px;*/
+/*height: 10.72px;*/
+left: 273.45px;
+top: 58.00px;
+}
+
+.block12_Salmonbellies_AS{
+    /* Salmonbellies AS */
+
+
+position: absolute;
+width: 185px;
+height: 18px;
+left: 310px;
+top: 46px;
+
+font-family: Gotham Pro;
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 19px;
+
+color: #00519C;
+
+}
+.block12_Trout{
+    /* Trout is the new salmon */
+
+
+position: absolute;
+width: 182px;
+height: 11px;
+left: 310px;
+top: 68px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+
+color: #00519C;
+}
+.block12_U{
+  position: absolute;
+/*width: 182px;*/
+/*height: 11px;*/
+left: 525.8px;
+top: 37.81px;
+}
+.block12_UU{
+    position: absolute;
+/*width: 182px;*/
+/*height: 11px;*/
+left: 539.76px;
+top: 48.63px;
+}
+.block12_Kosher{
+    /* Kosher per demand */
+
+
+position: absolute;
+width: 133px;
+height: 30px;
+left: 596px;
+top: 51px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 30px;
+/* identical to box height, or 231% */
+
+
+color: #000000;
+
+}
+.block12_fcircle{
+  position: absolute;
+left: 890px;
+top: 44px;
+}
+.block12_f{
+    position: absolute;
+left: 904.89px;
+top: 52.31px;
+}
+.block12_incircle{
+     position: absolute;
+left: 955px;
+top: 44px;
+}
+.block12_in{
+        position: absolute;
+left: 965.14px;
+top: 53.17px;
+}
+
+.block12_Copyright{
+    /* Copyright SalmonBellies.no 2019, All Rights Reserved */
+
+
+position: absolute;
+width: 352px;
+height: 36px;
+left: 1031px;
+top: 49px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 30px;
+/* or 231% */
+
+
+color: #000000;
+}
